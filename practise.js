@@ -124,6 +124,8 @@ const num1 = 123456;
 const arr1 = num1.toString().split("");
 console.log(arr1.reverse());
 
+// third solution
+
 const arr2 = [];
 const numStr = num1.toString();
 const maxIndex = numStr.length-1;
