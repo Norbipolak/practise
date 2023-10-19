@@ -1,0 +1,278 @@
+body,
+body *,
+body *::before,
+body *::after {margin:0;padding:0;border:0;background:transparent;box-sizing:border-box;text-decoration:none;outline:none;font-family:inherit;}
+ol, ul, li {list-style:none;display:block;}
+table {border-collapse: collapse;border-spacing:0;}
+a img {border: none;}
+
+input,
+textarea,
+select,
+button,
+input{appearance: none; border-radius: 0;}
+
+button,
+a{cursor: pointer; color: inherit;}
+textarea{resize: none;}
+
+[readonly] + span,
+[readonly]{pointer-events: none; opacity: .4;}
+
+body{
+    font-family: 'Montserrat', sans-serif;
+}
+.swiper{
+    width: 100%;
+    height: 100vh;
+}
+
+.swiper-slide{
+    padding: 20px 60px;
+    height: 100vh;
+    overflow: auto;
+}
+
+.swiper-slide > .name,
+.swiper-slide > .title{
+    text-align: center;
+    font-size: 36px;
+    font-weight: 900;
+}
+.welcome{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+.welcome .title,
+.welcome .end{
+    padding: 20px 0;
+
+    font-size: 12px;
+    letter-spacing: 0.2em;
+    text-align: center;
+    text-transform: uppercase;
+    font-weight: 400;
+}
+
+.welcome .team{
+    font-size: 20vh;
+    text-align: center;
+    word-break: break-word;
+}
+
+.common-genres .score > div{
+    display: flex;
+    justify-content: space-between;
+
+    border-top: 8px solid;
+    font-size: 48px;
+}
+.common-genres .score > div:last-child{
+    border-bottom: 8px solid;
+}
+
+.common-genres .score > div::before,
+.common-location .score > div::before{
+    content: attr(class);
+    font-weight: 700;
+}
+
+.common-location .score > div{
+    padding-bottom: 10px;
+    border: 1px solid;
+    margin: 40px 0;
+
+    text-align: center;
+}
+
+.common-location .score > div::before{
+    display: block;
+    padding: 10px;
+    border-bottom: 1px solid;
+    margin-bottom: 10px;
+    text-align: left;
+    font-size: 72px;
+}
+
+.oldest,
+.youngest{
+    position: relative;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.oldest .title,
+.youngest .title{
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+}
+
+.oldest .score,
+.youngest .score{
+    text-align: center;
+    font-size: 20vh;
+    word-break: break-word;
+}
+
+.average-age .score,
+.average-cl .score{
+    font-size: 70vh;
+    text-align: center;
+}
+
+.student-slide{
+    background-color: var(--primary);
+    color: var(--secondary);
+}
+.student-slide::before{
+    content: "";
+    display: block;
+
+    width: 300px;
+    height: 300px;
+    margin: 0 auto;
+    border: 4px solid;
+    border-radius: 150px;
+
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.student-slide .birthday,
+.student-slide .location{
+    display: flex;
+    justify-content: center;
+}
+
+.student-slide .birthday div:not(:last-child)::after,
+.student-slide .location div:not(:last-child)::after{
+    content: "/";
+    padding: 0 10px;
+
+}
+.student-slide .codingLevel{
+    text-align: center;
+    font-weight: 700;
+}
+.student-slide .codingLevel::before{
+    content: "Coding level: ";
+    font-weight: 400;
+}
+
+.student-slide .colors{
+    display: none;
+}
+
+.student-slide > .favorites > div{
+    margin-top: 20px;
+}
+
+.student-slide > .favorites > div::before{
+    display: block;
+    padding: 10px;
+    background-color: var(--secondary);
+    color: var(--primary);
+
+    font-size: 10px;
+    letter-spacing: 0.2em;
+    text-align: center;
+    text-transform: uppercase;
+}
+
+.student-slide > .favorites > div > div{
+    padding: 10px;
+}
+.student-slide > .favorites > div > div:not(:last-child){
+    border-bottom: 1px solid;
+}
+.favMovies::before{content: "Favorite movies";}
+.favBooks::before{content: "Favorite books";}
+.favSongs::before{content: "Favorite songs";}
+
+.genres,
+.isNewerThan2000,
+.age,
+.characters{
+    display: none;
+}
+
+.student-slide > .favorites > div > div > div:not(.review){
+    margin: 2px 0;
+}
+
+.student-slide > .favorites > div > div .title{
+    font-size: 24px;
+    font-weight: 700;
+}
+
+.student-slide .review{
+    position: relative;
+    width: 40px;
+    height: 40px;
+    padding: 20px;
+    margin: 10px 0;
+    overflow: hidden;
+
+    background-color: var(--secondary);
+    color: var(--primary);
+}
+.student-slide .review::after{
+    content: "+";
+    display: block;
+    position: absolute;
+    left: 0;
+    top: 0;
+    width: 40px;
+    height: 40px;
+    border: 2px solid;
+    z-index: 1;
+    
+    font-size: 30px;
+    line-height: 36px;
+    font-weight: 700;
+    text-align: center;
+
+    transition: 400ms transform;
+    cursor: pointer;
+
+    background-color: var(--primary);
+    color: var(--secondary);
+}
+
+.student-slide .review.open{
+    width: 100%;
+    height: auto;
+    overflow: auto;
+    padding: 10px 50px;
+}
+
+.student-slide .review.open::after{
+    transform: rotate(45deg);
+}
+
+.swiper-button-next,
+.swiper-button-prev{
+    width: 40px;
+    height: 40px;
+    border-radius: 20px;
+    background-color: white;
+    color: gray;
+    border: 2px solid;
+}
+
+.swiper-button-next::after,
+.swiper-button-prev::after{
+    font-size: 20px;
+}
+.swiper-button-next::after{
+    padding-left: 4px;
+}
+.swiper-button-prev::after{
+    padding-right: 4px;
+}
+
