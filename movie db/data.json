@@ -1,0 +1,1662 @@
+{
+    "movies": [
+      {
+        "title": "2 Fast 2 Furious",
+        "year": 2003,
+        "runtime": 103,
+        "genres": [
+          "action",
+          "crime",
+          "thriller"
+        ],
+        "release-date": "2003-06-06",
+        "writers": [
+          "Gary Scott Thompson",
+          "Michael Brandt",
+          "Derek Haas"
+        ],
+        "actors": [
+          "Paul Walker",
+          "Tyrese Gibson",
+          "Chris Ludacris Bridges",
+          "Eva Mendes",
+          "Cole Hauser"
+        ],
+        "storyline": "Former Cop Brian O'Corner is assigned to bring down drug lord Carter Verone",
+        "directors": [
+          "John Singleton"
+        ]
+      },
+      {
+        "title": "28 Days Later",
+        "year": 2002,
+        "runtime": 113,
+        "genres": [
+          "drama",
+          "horror",
+          "sci-fi"
+        ],
+        "release-date": "2002-06-27",
+        "writers": [
+          "Alex Garland"
+        ],
+        "actors": [
+          "Cillian Murphy",
+          "Naomie Harris",
+          "Christopher Eccleston"
+        ],
+        "storyline": "Four weeks after a mysterious, incurable virus spreads throughout the UK, a handful of survivors try to find sanctuary.",
+        "directors": [
+          "Danny Boyle"
+        ]
+      },
+      {
+        "title": "50 First Dates",
+        "year": 2004,
+        "runtime": 99,
+        "genres": [
+          "comedy",
+          "drama",
+          "romance"
+        ],
+        "release-date": "2004-02-13",
+        "writers": [
+          "George Wing"
+        ],
+        "actors": [
+          "Adam Sandler",
+          "Drew Barrymore",
+          "Rob Schneider",
+          "Sean Astin",
+          "Blake Clark",
+          "Dan Aykroyd"
+        ],
+        "description": "Henry Roth is a man afraid of commitment up until he meets the beautiful Lucy. They hit it off and Henry think he's finally found the girl of his dreams, until he discovers she has short-term memory loss and forgets him the next day.",
+        "directors": [
+          "Peter Segal"
+        ]
+      },
+      {
+        "title": "King Kong",
+        "year": 2005,
+        "runtime": 187,
+        "genres": [
+          "drama",
+          "fantasy",
+          "action",
+          "adventure",
+          "romance"
+        ],
+        "release-date": "2005-12-05",
+        "writers": [
+          "Fran Walsh",
+          "Philippa Boyens",
+          "Peter Jackson"
+        ],
+        "actors": [
+          "Naomi Watts",
+          "Jack Black",
+          "Peter Jackson",
+          "Andrien Brody"
+        ],
+        "storyline": "Filmmaker Carl Denham and his crew encounter a giant ape in Skull Island and imprison it to bring it to New York. However, they land in trouble when the giant ape is set free in the city.",
+        "directors": [
+          "Peter Jackson"
+        ]
+      },
+      {
+        "title": "Truth or Dare",
+        "year": 2018,
+        "runtime": 103,
+        "genres": [
+          "horror",
+          "thriller"
+        ],
+        "release-date": "2018-04-20",
+        "writers": [
+          "Michael Reisz",
+          "Jillian Jacobs",
+          "Christopher Roach",
+          "Jeff Wadlow",
+          "Michael Reisz"
+        ],
+        "actors": [
+          "Lucy Hale",
+          "Tyler Posey",
+          "Violett Beane",
+          "Hayden Szeto",
+          "Sophia Taylor Ali",
+          "Landon Liboiron",
+          "Nolan Gerard Funk",
+          "Sam Lerner",
+          "Aurora Perrineau",
+          "Tom Choi",
+          "Brady Smith",
+          "Morgan Lindholm",
+          "Ezmie Garcia",
+          "Andrew Howard",
+          "Vera R. Taylor",
+          "Gregg Daniel",
+          "Gary Anthony Williams",
+          "Joe Ochman",
+          "Lisa Catara",
+          "Tim Neff",
+          "Leslie Stratton"
+        ],
+        "storyline": "Olivia, Lucas and a group of their college friends travel to Mexico for one last getaway before graduation. While there, a stranger convinces one of the students to play a seemingly harmless game of truth or dare with the others. Once the game starts, it awakens something evil -- a demon which forces the friends to share dark secrets and confront their deepest fears. The rules are simple but wicked -- tell the truth or die, do the dare or die, and if you stop playing, you die.",
+        "directors": [
+          "Jeff Wadlow"
+        ]
+      },
+      {
+        "title": "Vitalina Varela",
+        "year": 2019,
+        "runtime": 124,
+        "genres": [
+          "drama"
+        ],
+        "release-date": "2019-08-14",
+        "writers": [
+          "Pedro Costa",
+          "Vitalina Varela"
+        ],
+        "actors": [
+          "Vitalina Varela",
+          " Manuel Tavares Almeida",
+          "Tavares Borges",
+          "Francisco Brito",
+          "Marina Alves Domingues",
+          "Imídio Monteiro",
+          "Manuel Tavares Almeida",
+          "Emídio Landim Monteiro",
+          "Nilsa Fortes",
+          "Benvinda Mendes",
+          "Bruno Brito Varela"
+        ],
+        "storyline": "Vitalina Varela, a 55-year-old woman from Cape Verde, arrives in Lisbon three days after her husband's funeral. She's been waiting for her plane ticket for more than 25 years.",
+        "directors": [
+          "Pedro Costa"
+        ]
+      },
+      {
+        "title": "A Beautiful Mind",
+        "year": 2001,
+        "runtime": 135,
+        "genres": [
+          "drama",
+          "biography"
+        ],
+        "release-date": "2001-12-13",
+        "writers": [
+          "Akiva Goldsman",
+          "Sylvia Nasar"
+        ],
+        "actors": [
+          "Russell Crowe",
+          "Ed Harris",
+          "Jennifer Connelly"
+        ],
+        "storyline": "After John Nash, a brilliant but asocial mathematician, accepts secret work in cryptography, his life takes a turn for the nightmarish.",
+        "directors": [
+          "Ron Howard"
+        ]
+      },
+      {
+        "title": "A Dog's Purpose",
+        "year": 2017,
+        "runtime": 135,
+        "genres": [
+          "drama"
+        ],
+        "release-date": "2017-01-27",
+        "writers": [
+          "W. Bruce Cameron",
+          "Cathryn Michon",
+          "Audrey Wells",
+          "Maya Forbes",
+          "Wally Wolodarsky"
+        ],
+        "actors": [
+          "Britt Robertson",
+          "KJ Apa",
+          "Juliet Rylance",
+          "John Ortiz",
+          "Kirby Howell-Baptiste",
+          "Peggy Lipton",
+          "Dennis Quaid",
+          "Josh Gad"
+        ],
+        "storyline": "Is based on W. Bruce Cameron's comedic novel about a dog's journey through several lives, with all different sorts of human companions.",
+        "directors": [
+          "Lasse Hallström"
+        ]
+      },
+      {
+        "title": "A.I. Artificial Intelligence",
+        "year": 2001,
+        "runtime": 146,
+        "genres": [
+          "drama",
+          "sci-fi"
+        ],
+        "release-date": "2001-06-26",
+        "writers": [
+          "Brian Aldiss",
+          "Ian Watson",
+          "Steven Spielberg"
+        ],
+        "actors": [
+          "Haley Joel Osment",
+          "Frances O'Connor",
+          "Sam Robards",
+          "Jake Thomas",
+          "Jude Law",
+          "William Hurt"
+        ],
+        "storyline": "A highly advanced robotic boy longs to become real so that he can regain the love of his human mother.",
+        "directors": [
+          "Steven Spielberg"
+        ]
+      },
+      {
+        "title": "A Quiet Place",
+        "year": 2018,
+        "runtime": 91,
+        "genres": [
+          "drama",
+          "horror",
+          "sci-fi"
+        ],
+        "release-date": "2018-04-06",
+        "writers": [
+          "Bryan Woods",
+          "Scott Beck",
+          "John Krasinski"
+        ],
+        "actors": [
+          "John Krasinski",
+          "Emily Blunt",
+          "Millicent Simmonds",
+          "Noah Jupe",
+          "Cade Woodward",
+          "Leon Russom"
+        ],
+        "storyline": "In a post-apocalyptic world, a family is forced to live in silence while hiding from monsters with ultra-sensitive hearing.",
+        "directors": [
+          "John Krasinski"
+        ]
+      },
+      {
+        "title": "A Star is Born",
+        "year": 2018,
+        "runtime": 135,
+        "genres": [
+          "drama",
+          "musical",
+          "romance"
+        ],
+        "release-date": "2018-09-07",
+        "writers": [
+          "Lady Gaga",
+          "Bradley Cooper",
+          "Sam Elliott"
+        ],
+        "actors": [
+          "Eric Roth",
+          "Bradley Cooper",
+          "Will Fetters",
+          "William A. Wellman",
+          "Robert Carson"
+        ],
+        "storyline": "Seasoned musician Jackson Maine (Bradley Cooper) discovers-and falls in love with-struggling artist Ally (Gaga). She has just about given up on her dream to make it big as a singer - until Jack coaxes her into the spotlight. But even as Ally's career takes off, the personal side of their relationship is breaking down, as Jack fights an ongoing battle with his own internal demons. Written by Warner Bros.",
+        "directors": [
+          "Bradley Cooper"
+        ]
+      },
+      {
+        "title": "A Thin Line Between Love and Hate",
+        "year": 1966,
+        "runtime": 148,
+        "genres": [
+          "comedy",
+          "romance"
+        ],
+        "release-date": "1996-04-03",
+        "writers": [
+          "Martin Lawrence",
+          "Kenny Buford",
+          "Bentley Kyle Evans"
+        ],
+        "actors": [
+          "Martin Lawrence",
+          "Lynn Whitfield",
+          "Regina King",
+          "Bobby Brown",
+          "Daryl Mitchell",
+          "Roger E. Mosley",
+          "Della Reese"
+        ],
+        "storyline": "A ladies man of legendary reputation finds himself targeted by one of his obsessed lovers.",
+        "directors": [
+          "Martin Lawrence"
+        ]
+      },
+      {
+        "title": "Acrimony",
+        "year": 2018,
+        "runtime": 120,
+        "genres": [
+          "drama",
+          "family",
+          "crime"
+        ],
+        "release-date": "2018-03-30",
+        "writers": [
+          "Tyler Perry"
+        ],
+        "actors": [
+          "Taraji P. Henson",
+          "Lyriq Bent",
+          "Crystle Stewart",
+          "Jazmyn Simon",
+          "Ptosha Storey",
+          "Danielle Nicolet",
+          "Nelson Estevez",
+          "Antonio Madison",
+          "Ajiona Alexus"
+        ],
+        "storyline": "Melinda Moore is a steadfast, hardworking wife who supports her husband, Robert Gayle, an engineer trying to sell an innovative battery design. A running total/dwindling balance of the proceeds Melinda receives after her mother's death is portrayed as the couple gets in over their heads in debt, which fractures their marriage over time. The film is divided into categories based in the emotional spectrum that Melinda experiences.",
+        "directors": [
+          "Tyler Perry"
+        ]
+      },
+      {
+        "title": "Ad Astra",
+        "year": 2019,
+        "runtime": 124,
+        "genres": [
+          "adventure",
+          "fantasy",
+          "mystery",
+          "thriller",
+          "sci-fi"
+        ],
+        "release-date": "2019-09-29",
+        "writers": [
+          "James Gray",
+          "Ethan Gross"
+        ],
+        "actors": [
+          "Brad Pitt",
+          "Dede Gardner",
+          "Jeremy Kleiner",
+          "James Gray",
+          "Anthony Katagas",
+          "Rodrigo Teixeira",
+          "Arnon Milchan"
+        ],
+        "storyline": "Thirty years ago, Clifford McBride led a voyage into deep space, but the ship and crew were never heard from again. Now his son -- a fearless astronaut -- must embark on a daring mission to Neptune to uncover the truth about his missing father and a mysterious power surge that threatens the stability of the universe.",
+        "directors": [
+          "James Gray"
+        ]
+      },
+      {
+        "title": "After Hours",
+        "year": 1985,
+        "runtime": 97,
+        "genres": [
+          "comedy",
+          "crime",
+          "drama"
+        ],
+        "release-date": "1985-10-11",
+        "writers": [
+          "Joseph Minion"
+        ],
+        "actors": [
+          "Griffin Dunn",
+          "Rosanna Arquette",
+          "Verna Bloom",
+          "Tommy Chong",
+          "Cheech Marin"
+        ],
+        "storyline": "An ordinary word processor has the worst night of his life after he agrees to visit a girl in Soho who he met that evening at a coffee shop.",
+        "directors": [
+          "Martin Scorsese"
+        ]
+      },
+      {
+        "title": "After",
+        "year": 2019,
+        "runtime": 105,
+        "genres": [
+          "drama",
+          "romance"
+        ],
+        "release-date": "2019-04-12",
+        "writers": [
+          "Tom Betterton",
+          "Tamara Chestna",
+          "Jenny Gage",
+          "Susan McMartin",
+          "Anna Todd"
+        ],
+        "actors": [
+          "Josephine Langford",
+          "Hero Fiennes Tiffin",
+          "Khadijha Red Thunder",
+          "Dylan Arnold",
+          "Shane Paul McGhie",
+          "Samuel Larsen",
+          "Inanna Sarkis",
+          "Selma Blair",
+          "Pia Mia",
+          "Swen Temmel",
+          "Meadow Williams",
+          "Peter Gallagher",
+          "Jennifer Beals",
+          "Michael Hull",
+          "Sarah Jorge León",
+          "Chris Kontopidis",
+          "Rebecca Lee Robertson",
+          "ShannonMayers",
+          "ByronWigfall",
+          "JohnEvanko",
+          "Mark Axelowitz",
+          "Paul Fox"
+        ],
+        "storyline": "A young woman falls for a guy with a dark secret and the two embark on a rocky relationship. Based on the novel by Anna Todd.",
+        "directors": [
+          "Jenny Gage"
+        ]
+      },
+      {
+        "title": "Ah-ga-ssi",
+        "year": 2016,
+        "runtime": 145,
+        "genres": [
+          "drama",
+          "romance",
+          "thriller"
+        ],
+        "release-date": "2016-06-01",
+        "writers": [
+          "Sarah Waters",
+          "Seo-kyeong Jeong",
+          "Chan-wook Park"
+        ],
+        "actors": [
+          "Min-hee Kim",
+          "Tae-ri Kim",
+          "Jung-woo Ha",
+          "Jin-woong Cho",
+          "Hae-sook Kim",
+          "So-Ri Moon"
+        ],
+        "storyline": "A woman is hired as a handmaiden to a Japanese heiress, but secretly she is involved in a plot to defraud her.",
+        "directors": [
+          "Chan-wook Park"
+        ]
+      },
+      {
+        "title": "Akira",
+        "year": 1988,
+        "runtime": 124,
+        "genres": [
+          "animation",
+          "sci-fi",
+          "drama"
+        ],
+        "release-date": "1988-07-16",
+        "writers": [
+          "Katsuhiro Ôtomo",
+          "Izô Hashimoto",
+          "Katsuhiro Ôtomo"
+        ],
+        "actors": [
+          "Mitsuo Iwata",
+          "Nozomu Sasaki",
+          "Mami Koyama",
+          "Tesshô Genda",
+          "Hiroshi Ôtake"
+        ],
+        "storyline": "A secret military project endangers Neo-Tokyo when it turns a biker gang member into a rampaging psychic psychopath who can only be stopped by two teenagers and a group of psychics.",
+        "directors": [
+          "Katsuhiro Ôtomo"
+        ]
+      },
+      {
+        "title": "Aladdin",
+        "year": 2019,
+        "runtime": 128,
+        "genres": [
+          "adventure",
+          "family",
+          "fantasy",
+          "musical",
+          "romance"
+        ],
+        "release-date": "2019-05-22",
+        "writers": [
+          "John August",
+          "Guy Ritchie"
+        ],
+        "actors": [
+          "Will Smith",
+          "Mena Massoud",
+          "Naomi Scott",
+          "Marwan Kenzari",
+          "Navid Negahban",
+          "Nasim Pedrad",
+          "Billy Magnussen",
+          "Jordan A. Nash",
+          "Taliyah Blair",
+          "Aubrey Lin",
+          "Amir Boutrous",
+          "Numan Acar",
+          "Omari Bernard",
+          "Nathaniel Ellul",
+          "Sebastien Torkia"
+        ],
+        "storyline": "A kind-hearted street urchin and a power-hungry Grand Vizier vie for a magic lamp that has the power to make their deepest wishes come true.",
+        "directors": [
+          "Guy Ritchie"
+        ]
+      },
+      {
+        "title": "Alien",
+        "year": 1979,
+        "runtime": 116,
+        "genres": [
+          "horror",
+          "sci-fi"
+        ],
+        "release-date": "1979-05-25",
+        "writers": [
+          "Dan O'Bannon",
+          "Ronald Shusett"
+        ],
+        "actors": [
+          "Tom Skerritt",
+          "Sigourney Weaver",
+          "Veronica Cartwright",
+          "Harry Dean Stanton",
+          "John Hurt",
+          "Ian Holm",
+          "Yaphet Kotto",
+          "Bolaji Badejo",
+          "Helen Horton"
+        ],
+        "storyline": "After a space merchant vessel perceives an unknown transmission as a distress call, its landing on the source moon finds one of the crew attacked by a mysterious lifeform, and they soon realize that its life cycle has merely begun.",
+        "directors": [
+          "Ridley Scott"
+        ]
+      },
+      {
+        "title": "Allied",
+        "year": 2016,
+        "runtime": 124,
+        "genres": [
+          "adventure",
+          "action",
+          "romance"
+        ],
+        "release-date": "2016-11-23",
+        "writers": [
+          "Steven Knight"
+        ],
+        "actors": [
+          "Brad Pitt",
+          "Marion Cotillard",
+          "Jared Harris"
+        ],
+        "storyline": "In the middle of World War II, in turbulent 1942, the fearless Wing Commander, Max Vatan, lands on the desert dunes of Morocco to meet with the skilful Parisian member of the French Resistance, Marianne Beauséjour. After a suicide mission in the heart of Casablanca, Max and Marianne will flee to England with plans on making a family; however, heavy clouds of distrust and suspicion will burden their relationship, when Max receives a shocking call from the Secret Service Division. In disbelief, with a terrible task in his hands and crushed under a devastating dilemma, Max must find the courage to seek for answers in the perilous streets of a bombarded London, regardless of the outcome. In the end, amid duty and love, who shall live and who shall die?",
+        "directors": [
+          "Robert Zemeckis"
+        ]
+      },
+      {
+        "title": "American Beauty",
+        "year": 1999,
+        "runtime": 122,
+        "genres": [
+          "drama"
+        ],
+        "release-date": "1999-01-10",
+        "writers": [
+          "Alan Ball"
+        ],
+        "actors": [
+          "Kevin Spacey",
+          "Annette Bening",
+          "Thora Birch"
+        ],
+        "storyline": "A sexually frustrated suburban father has a mid-life crisis after becoming infatuated with his daughter's best friend.",
+        "directors": [
+          "Sam Mendes"
+        ]
+      },
+      {
+        "title": "American Drug War: The Last White Hope",
+        "year": 2007,
+        "runtime": 120,
+        "genres": [
+          "documentary",
+          "crime"
+        ],
+        "release-date": "2007-06-1",
+        "writers": [
+          "Kevin Booth"
+        ],
+        "actors": [
+          "Joe Arpaio",
+          "Jello Biafra",
+          "Osama bin Laden",
+          "Jeff Blackburn",
+          "Chris Athanas"
+        ],
+        "storyline": "The War on Drugs has become the longest and most costly war in American history, the question has become, how much more can the country endure? Inspired by the death of four family members from \"legal drugs\" Texas filmmaker Kevin Booth sets out to discover why the Drug War has become such a big failure.",
+        "directors": [
+          "Kevin Booth"
+        ]
+      },
+      {
+        "title": "An American Tail: Fievel Goes West",
+        "year": 1991,
+        "runtime": 74,
+        "genres": [
+          "comedy"
+        ],
+        "release-date": "1991-11-22",
+        "writers": [
+          "Charles Swenson",
+          "Flint Dille"
+        ],
+        "actors": [
+          "Phillip Glasser",
+          "James Stewart",
+          "Erica Yohn",
+          "Cathy Cavadini",
+          "Nehemiah Persoff",
+          "Dom DeLuise",
+          "Amy Irving",
+          "John Cleese",
+          "Jon Lovitz"
+        ],
+        "storyline": "An animated movie where the Mousekewitz family travels west to start a new life.",
+        "directors": [
+          "Phil Nibbelink", "Simon Wells"
+        ]
+      },
+      {
+        "title": "Angel Has Fallen",
+        "year": 2019,
+        "runtime": 121,
+        "genres": [
+          "action",
+          "thriller"
+        ],
+        "release-date": "2019-08-21",
+        "writers": [
+          "Ric Roman Waugh",
+          "Robert Mark Kamen",
+          "Matt Cook"
+        ],
+        "actors": [
+          "Gerard Butler",
+          "Morgan Freeman",
+          "Piper Perabo"
+        ],
+        "storyline": "Secret Service Agent Mike Banning is framed for the attempted assassination of the President and must evade his own agency and the FBI as he tries to uncover the real threat.",
+        "directors": [
+          "Ric Roman Waugh"
+        ]
+      },
+      {
+        "title": "Annabelle Comes Home",
+        "year": 2019,
+        "runtime": 106,
+        "genres": [
+          "horror"
+        ],
+        "release-date": "2019-06-26",
+        "writers": [
+          "James Wan",
+          "Gary Dauberman"
+        ],
+        "actors": [
+          "Mckenna Grace",
+          "Madison Iseman",
+          "Katie Sarife",
+          "Patrick Wilson",
+          "Vera Farmiga"
+        ],
+        "storyline": "Determined to keep Annabelle from wreaking more havoc, demonologists Ed and Lorraine Warren bring the possessed doll to the locked artifacts room in their home, placing her 'safely' behind sacred glass and enlisting a priest's holy blessing. But an unholy night of horror awaits as Annabelle awakens the evil spirits in the room, who all set their sights on a new target--the Warrens' ten-year-old daughter, Judy, and her friends.",
+        "directors": [
+          "Gary Dauberman"
+        ]
+      },
+      {
+        "title": "Annabelle: Creation",
+        "year": 2017,
+        "runtime": 109,
+        "genres": [
+          "horror",
+          "thriller",
+          "mystery"
+        ],
+        "release-date": "2017-08-11",
+        "writers": [
+          "Gary Dauberman"
+        ],
+        "actors": [
+          "Anthony LaPaglia",
+          "Samara Lee",
+          "Miranda Otto"
+        ],
+        "storyline": "12 years after the tragic death of their little girl, a dollmaker and his wife welcome a nun and several girls from a shuttered orphanage into their home, where they soon become the target of the dollmaker's possessed creation, Annabelle.",
+        "directors": [
+          "David F.Sandberg"
+        ]
+      },
+      {
+        "title": "Annihilation",
+        "year": 2018,
+        "runtime": 115,
+        "genres": [
+          "adventure",
+          "drama",
+          "horror"
+        ],
+        "release-date": "2018-02-23",
+        "writers": [
+          "Alex Garland",
+          "Jeff VanderMeer"
+        ],
+        "actors": [
+          "Natalie Portman",
+          "Jennifer Jason Leigh",
+          "Tessa Thompson"
+        ],
+        "storyline": "Melinda Moore is a steadfast, hardworking wife who supports her husband, Robert Gayle, an engineer trying to sell an innovative battery design. A running total/dwindling balance of the proceeds Melinda receives after her mother's death is portrayed as the couple gets in over their heads in debt, which fractures their marriage over time. The film is divided into categories based in the emotional spectrum that Melinda experiences.",
+        "directors": [
+          "Alex Garland"
+        ]
+      },
+      {
+        "title": "Ant-Man and the Wasp",
+        "year": 2018,
+        "runtime": 118,
+        "genres": [
+          "action",
+          "adventure",
+          "sci-fi"
+        ],
+        "release-date": "2018-07-06",
+        "writers": [
+          "Chris McKenna",
+          "Erik Sommers",
+          "Andrew Barrer",
+          "Gabriel Ferrari",
+          "Paul Rudd"
+        ],
+        "actors": [
+          "Paul Rudd",
+          "Evangeline Lilly",
+          "Michael Peña",
+          "Walton Goggins",
+          "Bobby Cannavale"
+        ],
+        "storyline": "As Scott Lang balances being both a Super Hero and a father, Hope van Dyne and Dr. Hank Pym present an urgent new mission that finds the Ant-Man fighting alongside The Wasp to uncover secrets from their past.",
+        "directors": [
+          "Peyton Reed"
+        ]
+      },
+      {
+        "title": "Ant-Man",
+        "year": 2015,
+        "runtime": 117,
+        "genres": [
+          "action",
+          "adventure",
+          "comedy"
+        ],
+        "release-date": "2015-07-17",
+        "writers": [
+          "Edgar Wright",
+          "Joe Cornish",
+          "Adam McKay",
+          "Paul Rudd",
+          "Stan Lee",
+          "Jack Kirby"
+        ],
+        "actors": [
+          "Paul Rudd",
+          "Michael Douglas",
+          "Evangeline Lilly",
+          "Corey Stoll"
+        ],
+        "storyline": "Armed with a super-suit with the astonishing ability to shrink in scale but increase in strength, cat burglar Scott Lang must embrace his inner hero and help his mentor, Dr. Hank Pym, plan and pull off a heist that will save the world.",
+        "directors": [
+          "Payton Reed"
+        ]
+      },
+      {
+        "title": "Aquaman",
+        "year": 2018,
+        "runtime": 140,
+        "genres": [
+          "fantasy",
+          "sci-fi"
+        ],
+        "release-date": "2018-12-14",
+        "writers": [
+          "Paul Norris",
+          "Mort Weisinger"
+        ],
+        "actors": [
+          "Jason Momoa",
+          "Amber Heard",
+          "Nicole Kidman",
+          "Dolph Lundgren",
+          "Patrick Wilson",
+          "Willem Dafoe"
+        ],
+        "storyline": "Arthur Curry learns that he is the heir to the underwater kingdom of Atlantis, and must step forward to lead his people and be a hero to the world.",
+        "directors": [
+          "James Wan"
+        ]
+      },
+      {
+        "title": "Aquarius",
+        "year": 2016,
+        "runtime": 165,
+        "genres": [
+          "drama"
+        ],
+        "release-date": "2016-09-01",
+        "writers": [
+          "Kleber Mendonça Filho"
+        ],
+        "actors": [
+          "Sônia Braga",
+          "Maeve Jinkings",
+          "Irandhir Santos"
+        ],
+        "storyline": "Clara, a 65 year old widow and retired music critic, was born into a wealthy and traditional family in Recife, Brazil. She is the last resident of the Aquarius, an original two-storey building, built in the 1940s, in the upper-class, seaside Boa Viagem Avenue, Recife. All the neighboring apartments have already been acquired by a company which has other plans for that plot. Clara has pledged to only leave her place upon her death, and will engage in a cold war of sorts with the company. This tension both disturbs Clara and gives her that edge on her daily routine. It also gets her thinking about her loved ones, her past and her future.",
+        "directors": [
+          "Kleber Mendonça Filho"
+        ]
+      },
+      {
+        "title": "Arif v 216",
+        "year": 2018,
+        "runtime": 125,
+        "genres": [
+          "comedy",
+          "sci-fi"
+        ],
+        "release-date": "2018-01-5",
+        "writers": [
+          "Cem Yilmaz"
+        ],
+        "actors": [
+          "Cem Yilmaz",
+          "Ozan Guven",
+          "Ozkan Ugur"
+        ],
+        "storyline": "After 8 years, Arif's old friend 216 from planet GORA pays a visit to Earth.Together they go on a quest where they'll be visiting 60's.",
+        "directors": [
+          "Kivanc Baruonu"
+        ]
+      },
+      {
+        "title": "Armageddon",
+        "year": 1998,
+        "runtime": 151,
+        "genres": [
+          "action",
+          "adventure",
+          "sci-fi"
+        ],
+        "release-date": "1998-07-01",
+        "writers": [
+          "Jonathan Hensleigh",
+          "J.J. Abrams"
+        ],
+        "actors": [
+          "Bruce Willis",
+          "Ben Affleck",
+          "Owen Wilson"
+        ],
+        "storyline": "After discovering that an asteroid the size of Texas is going to impact Earth in less than a month, N.A.S.A. recruits a misfit team of deep core drillers to save the planet.",
+        "directors": [
+          "Michael Bay"
+        ]
+      },
+      {
+        "title": "Arrival",
+        "year": 2016,
+        "runtime": 116,
+        "genres": [
+          "mystery",
+          "sci-fi",
+          "drama"
+        ],
+        "release-date": "2016-11-11",
+        "writers": [
+          "Ted Chiang",
+          "Eric Heisserer"
+        ],
+        "actors": [
+          "Amy Adams",
+          "Jeremy Renner",
+          "Forest Whitaker"
+        ],
+        "storyline": "A linguist is recruited by the military to communicate with alien lifeforms after twelve mysterious spacecrafts land around the world.",
+        "directors": [
+          "Denis Villeneuve"
+        ]
+      },
+      {
+        "title": "Avengers: Endgame",
+        "year": 2019,
+        "runtime": 181,
+        "genres": [
+          "action",
+          "sci-fi",
+          "fantasy"
+        ],
+        "release-date": "2019-04-26",
+        "writers": [
+          "Christopher Markus",
+          "Stephen McFeely"
+        ],
+        "actors": [
+          "Robert Downey Jr.",
+          "Chris Evans",
+          "Mark Ruffalo",
+          "Chris Hemsworth",
+          "Scarlett Johansson",
+          "Jeremy Renner",
+          "Don Cheadle",
+          "Paul Rudd",
+          "Brie Larson",
+          "Karen Gillan",
+          "Danai Gurira",
+          "Benedict Wong",
+          "Jon Favreau",
+          "Bradley Cooper",
+          "Gwyneth Paltrow",
+          "Josh Brolin"
+        ],
+        "storyline": "Now that Thanos has put his plan into action in 'Avengers: Infinity War', it's time to find a way to undo what happened.",
+        "directors": [
+          "Anthony Russo", "Joe Russo"
+        ]
+      },
+      {
+        "title": "Avengers: Infinity War",
+        "year": 2018,
+        "runtime": 149,
+        "genres": [
+          "action",
+          "adventure",
+          "sci-fi"
+        ],
+        "release-date": "2018-04-27",
+        "writers": [
+          "Christopher Markus",
+          "Stephen McFeely",
+          "Stan Lee",
+          "Jack Kirby",
+          "Joe Simon",
+          "Steve Englehart",
+          "Steve Gan",
+          "Bill Mantlo",
+          "Keith Giffen",
+          "Larry Lieber",
+          "Don Heck"
+        ],
+        "actors": [
+          "Robert Downey Jr.",
+          "Chris Hemsworth",
+          "Mark Ruffalo",
+          "Chris Evans",
+          "Scarlett Johansson",
+          "Jeremy Renner"
+        ],
+        "storyline": "The Avengers and their allies must be willing to sacrifice all in an attempt to defeat the powerful Thanos before his blitz of devastation and ruin puts an end to the universe.",
+        "directors": [
+          "Anthony Russo", "Joe Russo"
+        ]
+      },
+      {
+        "title": "Ayla: The Daughter of War",
+        "year": 2017,
+        "runtime": 125,
+        "genres": [
+          "drama",
+          "history",
+          "war"
+        ],
+        "release-date": "2017-10-27",
+        "writers": [
+          "Yigit Güralp"
+        ],
+        "actors": [
+          "Cetin Tekindor",
+          "Ismail Hacioglu",
+          "Kyung-jin Lee",
+          "Kim Seol"
+        ],
+        "storyline": "In 1950, amidst the ravages of the Korean War, Sergeant Süleyman stumbles upon a a half-frozen little girl, with no parents and no help in sight. Frantic, scared and on the verge of death, this little girl captures the heart of Süleyman, who risks his own life to save her, smuggling her into his Army base and out of harms way. Not knowing her name and unable to communicate with her, Süleyman names her Ayla, in reminiscence of the moon on the fateful night during which they met. The two form an instantaneous and inseparable bond, and Ayla, almost effortlessly, brings an uncanny joy to the Turkish brigade in the grip of war. As the war comes to a close however, Süleyman's brigade is told that they will be returning home. Süleyman cannot bear abandoning Ayla, and does everything within his power to take her with him. After repeated failure, he is forced to give Ayla to an orphanage, but doesn't give up on the hope of one day reuniting with her. Will the two ever get back together?",
+        "directors": [
+          "Can Ulkay"
+        ]
+      },
+      {
+        "title": "Baahubali 2: The Conclusion",
+        "year": 2017,
+        "runtime": 197,
+        "genres": [
+          "fantasy",
+          "drama"
+        ],
+        "release-date": "2017-04-28",
+        "writers": ["K. V. Vijayendra Prasad"],
+        "actors": [
+          "Prabhas",
+          "Rana Daggubati",
+          "Anushka Shetty",
+          "Tamannaah",
+          "Ramya Krishnan",
+          "Sathyaraj",
+          "Nassar"
+        ],
+        "storyline": "Bhallaladeva conspires against his brother to become the king of Mahishmati. He soon gets him killed by Katappa and imprisons his wife. Years later, the son returns to avenge his father's death.",
+        "directors": [
+          "S. S. Rajamouli"
+        ]
+      },
+      {
+        "title": "Baby Driver",
+        "year": 2017,
+        "runtime": 113,
+        "genres": [
+          "action",
+          "crime",
+          "drama"
+        ],
+        "release-date": "2017-06-28",
+        "writers": [
+          "Edgar Wright"
+        ],
+        "actors": [
+          "Ansel Elgort",
+          "Jon Bernthal",
+          "Jon Hamm"
+        ],
+        "storyline": "After being coerced into working for a crime boss, a young getaway driver finds himself taking part in a heist doomed to fail.",
+        "directors": [
+          "Edgar Wright"
+        ]
+      },
+      {
+        "title": "Back Country",
+        "year": 2014,
+        "runtime": 92,
+        "genres": [
+          "drama",
+          "horror",
+          "thriller"
+        ],
+        "release-date": "2015-03-20",
+        "writers": [
+          "Adam MacDonald"
+        ],
+        "actors": [
+          "Jeff Roop",
+          "Missy Peregrym",
+          "Eric Balfour"
+        ],
+        "storyline": "An urban couple go camping in the Canadian wilderness - where unimaginable beauty sits alongside our most primal fears. Alex (Jeff Roop) is a seasoned outdoorsman while Jenn (Missy Peregrym), a corporate lawyer, is not. After much convincing, and against her better judgment, she agrees to let him take her deep into a Provincial Park to one of his favorite spots - the secluded Blackfoot Trail. On their first night, deep in the forest, they have an unsettling encounter with Brad (Eric Balfour), a strange alpha male with eyes for Jenn who may or may not be following them. Alex's desire to quickly reach Blackfoot Trail only intensifies. They push further and further into the woods, Alex stubbornly insisting that he remembers the way. After three days their path disappears; they are hopelessly lost. Without food or water, they struggle to find their way back, the harsh conditions bringing out the best and worst in them, pushing their already fragile relationship to the breaking point.",
+        "directors": [
+          "Adam MacDonald"
+        ]
+      },
+      {
+        "title": "Back to the Future",
+        "year": 1985,
+        "runtime": 116,
+        "genres": [
+          "comedy",
+          "sci-fi"
+        ],
+        "release-date": "1985-07-03",
+        "writers": [
+          "Robert Zemeckis",
+          "Bob Gale"
+        ],
+        "actors": [
+          "Michael J. Fox",
+          "Christopher Lloyd",
+          "Lea Thompson",
+          "Crispin Glover"
+        ],
+        "storyline": "Teenager accidentally travels back in time where he meets his future parents.",
+        "directors": [
+          "Robert Zemeckis"
+        ]
+      },
+      {
+        "title": "Backdraft",
+        "year": 1991,
+        "runtime": 137,
+        "genres": [
+          "action",
+          "crime",
+          "drama"
+        ],
+        "release-date": "1991-05-24",
+        "writers": [
+          "Gregory Widen"
+        ],
+        "actors": [
+          "Kurt Russell",
+          "William Baldwin",
+          "Robert De Niro"
+        ],
+        "storyline": "Two Chicago firefighter brothers, who don't get along, have to work together while a dangerous arsonist is on the loose.",
+        "directors": [
+          "Ron Howard"
+        ]
+      },
+      {
+        "title": "Bacurau",
+        "year": 2019,
+        "runtime": 132,
+        "genres": [
+          "drama",
+          "western",
+          "fantasy",
+          "sci-fi"
+        ],
+        "release-date": "2019-05-15",
+        "writers": [
+          "Kleber Mendonça Filho",
+          "Juliano Dornelles"
+        ],
+        "actors": [
+          "Sônia Braga",
+          "Udo Kier",
+          "Bárbara Colen"
+        ],
+        "storyline": "Shortly after the death of Dona Carmelita, residents of a small town located in the Brazilian Sertão called Bacurau discover that the community is no longer on any map.",
+        "directors": [
+          "Kleber Mendonça Filho"
+        ]
+      },
+      {
+        "title": "Batman Begins",
+        "year": 2005,
+        "runtime": 128,
+        "genres": [
+          "adventure",
+          "action"
+        ],
+        "release-date": "2005-06-15",
+        "writers": [
+          "Bob Kane",
+          "David S. Goyer",
+          "Christopher Nolan"
+        ],
+        "actors": [
+          "Christian Bale",
+          "Michael Caine",
+          "Ken Watanabe"
+        ],
+        "storyline": "After training with his mentor, Batman begins his fight to free crime-ridden Gotham City from the corruption that Scarecrow and the League of Shadows have cast upon it.",
+        "directors": [
+          "Christopher Nolan"
+        ]
+      },
+      {
+        "title": "Batman v Superman: Dawn of Justice",
+        "year": 2016,
+        "runtime": 151,
+        "genres": [
+          "action",
+          "adventure",
+          "sci-fi"
+        ],
+        "release-date": "2016-03-25",
+        "writers": [
+          "Chris Terrio",
+          "David S. Goyer"
+        ],
+        "actors": [
+          "Ben Affleck",
+          "Henry Cavill",
+          "Amy Adams"
+        ],
+        "storyline": "Fearing that the actions of Superman are left unchecked, Batman takes on the Man of Steel, while the world wrestles with what kind of a hero it really needs.",
+        "directors": [
+          "Zack Snyder"
+        ]
+      },
+      {
+        "title": "Beautiful Boy",
+        "year": 2018,
+        "runtime": 120,
+        "genres": [
+          "biography",
+          "drama"
+        ],
+        "release-date": "2018-10-12",
+        "writers": [
+          "Luke Davies",
+          "Felix Van Groeningen"
+        ],
+        "actors": [
+          "Steve Carell",
+          "Timothée Chalamet",
+          "Maura Tierney"
+        ],
+        "storyline": "Based on the best-selling pair of memoirs from father and son David and Nic Sheff, Beautiful Boy chronicles the heartbreaking and inspiring experience of survival, relapse, and recovery in a family coping with addiction over many years.",
+        "directors": [
+          "Felix Van Groeningen"
+        ]
+      },
+      {
+        "title": "Beauty and the Beast",
+        "year": 2017,
+        "runtime": 129,
+        "genres": [
+          "family",
+          "fantasy",
+          "musical"
+        ],
+        "release-date": "2017-03-16",
+        "writers": [
+          "Stephen Chbosky",
+          "Evan Spiliotopoulos"
+        ],
+        "actors": [
+          "Emma Watson",
+          "Dan Stevens",
+          "Luke Evans",
+          "Josh Gad",
+          "Kevin Kline",
+          "Hattie Morahan",
+          "Haydn Gwynne",
+          "Gerard Horan",
+          "Ray Fearon",
+          "Ewan McGregor",
+          "Ian McKellen",
+          "Emma Thompson",
+          "Nathan Mack",
+          "Audra McDonald",
+          "Stanley Tucci"
+        ],
+        "storyline": "Disney's animated classic takes on a new form, with a widened mythology and an all-star cast. A young prince, imprisoned in the form of a beast, can be freed only by true love. What may be his only opportunity arrives when he meets Belle, the only human girl to ever visit the castle since it was enchanted.\n\n",
+        "directors": [
+          "Bill Condon"
+        ]
+      },
+      {
+        "title": "Big Hero 6",
+        "year": 2014,
+        "runtime": 122,
+        "genres": [
+          "animation",
+          "action",
+          "adventure"
+        ],
+        "release-date": "2014-11-07",
+        "writers": [
+          "Jordan Roberts",
+          "Robert L. Baird"
+        ],
+        "actors": [
+          "Scott Adsit",
+          "Ryan Potter"
+        ],
+        "storyline": "When a devastating event befalls the city of San Fransokyo and catapults Hiro into the midst of danger, he turns to Baymax and his close friends adrenaline junkie Go Go Tomago, neatnik Wasabi, chemistry whiz Honey Lemon and fanboy Fred. Determined to uncover the mystery, Hiro transforms his friends into a band of high-tech heroes called 'Big Hero 6.'",
+        "directors": [
+            "Chris Williams", "Don Hall"
+        ]
+      },
+      {
+        "title": "Bigger",
+        "year": 2018,
+        "runtime": 107,
+        "genres": [
+          "drama"
+        ],
+        "release-date": "2018-10-12",
+        "writers": [
+          "George Gallo",
+          "Andy Weiss"
+        ],
+        "actors": [
+          "Julianne Hough",
+          "Calum Von Moger",
+          "Colton Haynes"
+        ],
+        "storyline": "The inspirational tale of the grandfathers of fitness as we now know it, Joe and Ben Weider. Facing anti-Semitism and extreme poverty, the brothers beat all odds to build an empire and inspire future generations.",
+        "directors": [
+          "George Gallo"
+        ]
+      },
+      {
+        "title": "Black Adam",
+        "year": 2022,
+        "runtime": 124,
+        "genres": [
+          "fantasy",
+          "action",
+          "adventure"
+        ],
+        "release-date": "2022-10-21",
+        "writers": [
+          "Adam Sztykiel",
+          "Rory Haines",
+          "Sohrab Noshirvani"
+        ],
+        "actors": [
+          "Dwayne Johnson",
+          "Aldis Hodge",
+          "Pierce Brosnan",
+          "Noah Centineo",
+          "Sarah Shahi",
+          "Quintessa Swindell",
+          "Marwan Kenzari"
+        ],
+        "storyline": "Nearly 5,000 years after he was bestowed with the almighty powers of the Egyptian gods-and imprisoned just as quickly-Black Adam is freed from his earthly tomb, ready to unleash his unique form of justice on the modern world.",
+        "directors": [
+          "Jaume Collet-Serra"
+        ]
+      },
+      {
+        "title": "Black Panther",
+        "year": 2018,
+        "runtime": 134,
+        "genres": [
+          "action",
+          "adventure",
+          "sci-fi"
+        ],
+        "release-date": "2018-02-16",
+        "writers": [
+          "Ryan Coogler",
+          "Joe Robert Cole"
+        ],
+        "actors": [
+          "Chadwick Boseman",
+          "Michael B. Jordan",
+          "Danai Gurira",
+          "Martin Freeman"
+        ],
+        "storyline": "T'Challa, heir to the hidden but advanced kingdom of Wakanda, must step forward to lead his people into a new future and must confront a challenger from his country's past.",
+        "directors": [
+          "Ryan Coogler"
+        ]
+      },
+      {
+        "title": "Black Widow",
+        "year": 2021,
+        "runtime": 134,
+        "genres": [
+          "sci-fi",
+          "action",
+          "adventure"
+        ],
+        "release-date": "2021-07-09",
+        "writers": [
+          "Eric Pearson"
+        ],
+        "actors": [
+          "Scarlett Johansson",
+          "Florence Pugh",
+          "Rachel Weisz",
+          "David Harbour",
+          "Ray Winstone",
+          "Ever Anderson"
+        ],
+        "storyline": "Natasha Romanoff, aka Black Widow, confronts the darker parts of her ledger when a dangerous conspiracy with ties to her past arises. Pursued by a force that will stop at nothing to bring her down, Natasha must deal with her history as a spy, and the broken relationships left in her wake long before she became an Avenger.",
+        "directors": [
+            "Cate Shortland"
+        ]
+      },
+      {
+        "title": "Blade Runner 2049",
+        "year": 2017,
+        "runtime": 0,
+        "future": "true",
+        "genres": [
+          "sci-fi",
+          "thriller"
+        ],
+        "release-date": "2017-10-05",
+        "writers": [
+          "Hampton Fancher",
+          "Michael Green",
+          "Philip K. Dick"
+        ],
+        "actors": [
+          "Ryan Gosling",
+          "Harrison Ford",
+          "Robin Wright",
+          "Dave Bautista",
+          "Jared Leto"
+        ],
+        "storyline": "A young blade runner's discovery of a long-buried secret leads him to track down former blade runner Rick Deckard, who's been missing for thirty years.",
+        "directors": [
+          "Denis Villeneuve"
+        ]
+      },
+      {
+        "title": "Blade Runner",
+        "year": 1982,
+        "runtime": 117,
+        "genres": [
+          "sci-fi",
+          "thriller"
+        ],
+        "release-date": "1982-09-09",
+        "writers": [
+          "Hampton Fancher",
+          "David Peoples",
+          "Philip K. Dick"
+        ],
+        "actors": [
+          "Harrison Ford",
+          "Sean Young",
+          "Roy Batty"
+        ],
+        "storyline": "A blade runner must pursue and try to terminate four replicants who stole a ship in space and have returned to Earth to find their creator.",
+        "directors": [
+          "Ridley Scott"
+        ]
+      },
+      {
+        "title": "Bohemian Rhapsody",
+        "year": 2018,
+        "runtime": 134,
+        "genres": [
+          "biography",
+          "drama",
+          "musical"
+        ],
+        "release-date": "2018-11-02",
+        "future": "true",
+        "writers": [
+          "Anthony McCarten",
+          "Peter Morgan"
+        ],
+        "actors": [
+          "Rami Malek",
+          "Ben Hardy",
+          "Gwilym Lee"
+        ],
+        "storyline": "A chronicle of the years leading up to Queen's legendary appearance at the Live Aid (1985) concert.",
+        "directors": [
+          "Bryan Singer"
+        ]
+      },
+      {
+        "title": "Breakfast at Tiffany's",
+        "year": 1961,
+        "runtime": 115,
+        "genres": [
+          "comedy",
+          "drama",
+          "romance"
+        ],
+        "release-date": "1961-10-06",
+        "writers": [
+          "Truman Capote",
+          "George Axelrod"
+        ],
+        "actors": [
+          "Audrey Hepburn",
+          "George Peppard",
+          "Patricia Neal",
+          "Buddy Ebsen",
+          "Martin Balsam",
+          "José Luis de Vilallonga",
+          "John McGiver",
+          "Dorothy Whitney",
+          "Stanley Adams",
+          "Elvia Allman",
+          "Alan Reed",
+          "Beverly Powers",
+          "Claude Stroud",
+          "Orangey",
+          "Mickey Rooney"
+        ],
+        "storyline": "Paul Varjak - a young wannabe writer and the kept young man of an older woman - Emily Eustace Failenson ays(aka '2E') - and meets Holly Golightly; a flighty Manhattan party girl, who's his neighbour in the brownstone she's set him up in. As Paul find out more about Holly, he begins to feel something for her, and she- always on the make - tries to be the insouciant waif.",
+        "directors": [
+          "Blake Edwards"
+        ]
+      },
+      {
+        "title": "Bumblebee",
+        "year": 2018,
+        "release-date": "2018-12-21",
+        "genres": [
+          "action",
+          "adventure",
+          "sci-fi"
+        ],
+        "writers": [
+          "Christina Hodson"
+        ],
+        "actors": [
+          "Hailee Steinfeld",
+          "John Cena",
+          "Pamela Adlon",
+          "Kenneth Choi"
+        ],
+        "storyline": "On the run in the year 1987, Bumblebee finds refuge in a junkyard in a small Californian beach town. Charlie, on the cusp of turning 18 and trying to find her place in the world, discovers Bumblebee, battle-scarred and broken.",
+        "runtime": 120,
+        "directors": [
+          "Travis Knight"
+        ]
+      },
+      {
+        "title": "Cabaret",
+        "year": 1972,
+        "runtime": 124,
+        "genres": [
+          "drama",
+          "musical"
+        ],
+        "release-date": "1972-02-13",
+        "writers": [
+          "Joe Masteroff",
+          "John Van Druten",
+          "Christopher Isherwood",
+          "Jay Presson Allen"
+        ],
+        "actors": [
+          "Liza Minelli",
+          "Michael York",
+          "Helmut Griem",
+          "Joel Grey",
+          "Fritz Wepper",
+          "Marisa Berenson",
+          "Elisabeth Neumann-Viertel",
+          "Helen Vita",
+          "Sigrid von Richthofen",
+          "Gerd Vespermann",
+          "Ralf Wolter",
+          "Georg Hartmann",
+          "Ricky Renee",
+          "Estrongo Nachama",
+          "Kathryn Doby",
+          "Inge Jaeger",
+          "Angelika Koch",
+          "Helen Velkovorska",
+          "Gitta Schmidt",
+          "Louise Quick",
+          "Oliver Collignon",
+          "Pierre Franckh",
+          "Mark Lambert",
+          "Ellen Umlauf"
+        ],
+        "storyline": "A female girlie club entertainer in Weimar Republic era Berlin romances two men while the Nazi Party rises to power around them.",
+        "directors": [
+          "Bob Fosse"
+        ]
+      },
+      {
+        "title": "Capitao Falcao",
+        "year": 2015,
+        "runtime": 106,
+        "genres": [
+          "action",
+          "adventure",
+          "comedy"
+        ],
+        "release-date": "2015-04-23",
+        "writers": [
+          "Joao Leitao",
+          "Nurian Leon Bernanrdo"
+        ],
+        "actors": [
+          "Goncalo Waddington",
+          "David Chan Cordeiro",
+          "Miguel Guilherme"
+        ],
+        "storyline": "Follows Portugal's first fascist superhero: the ultra patriotic Captain Falcon!",
+        "directors": [
+          "Joao Leitao"
+        ]
+      },
+      {
+        "title": "Captain America: Civil War",
+        "year": 2016,
+        "runtime": 147,
+        "genres": [
+          "adventure",
+          "action",
+          "sci-fi"
+        ],
+        "release-date": "2016-05-06",
+        "writers": [
+          "Christopher Markus",
+          "Stephen McFeely",
+          "Jack Kirby",
+          "Joe Simon"
+        ],
+        "actors": [
+          "Chris Evans",
+          "Scarlett Johansson",
+          "Samuel L. Jackson"
+        ],
+        "storyline": "With many people fearing the actions of super heroes, the government decides to push for the Hero Registration Act, a law that limits a hero's actions. This results in a division in The Avengers. Iron Man stands with this Act, claiming that their actions must be kept in check otherwise cities will continue to be destroyed, but Captain America feels that saving the world is daring enough and that they cannot rely on the government to protect the world. This escalates into an all-out war between Team Iron Man (Iron Man, Black Panther, Vision, Black Widow, War Machine, and Spiderman) and Team Captain America (Captain America, Bucky Barnes, Falcon, Sharon Carter, Scarlet Witch, Hawkeye, and Ant Man) while a new villain emerges.",
+        "directors": [
+            "Anthony Russo", "Joe Russo"
+        ]
